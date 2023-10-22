@@ -22,7 +22,7 @@ const LoginForm = () => {
     const handleSubmit = async (e) => {
         e.preventDefault();
 
-        const authObject = {'Project-ID' : "2505ff91-2fd7-4b95-9530-3951a55e21ad", 'User-Name': username, 'User-Secret': password};
+        const authObject = {'Project-ID' : "0d5586d0-ce64-4fa1-abea-94019327b24b", 'User-Name': username, 'User-Secret': password};
 
         try {
             // username | password => chatengine -> gives messages

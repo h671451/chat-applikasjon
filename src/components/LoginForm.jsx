@@ -62,7 +62,7 @@ const LoginForm = () => {
                 </div>
                 <div align="center">
                     <button onClick={handleAdminLogin} className="button">
-                        <span>Login as Dat Huynh(Admin)</span>
+                        <span>Login Dat Huynh(Admin)</span>
                     </button>
                 </div>
             </div>
